@@ -1,4 +1,4 @@
-package dev.vasileva.sample.javawebtoken;
+package dev.vasileva.sample.jsonwebtoken;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
